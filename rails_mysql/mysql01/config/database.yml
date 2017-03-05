@@ -1,6 +1,0 @@
-development:
-  adapter: mysql2
-  database: test01
-  username: root 
-  password: root 
-  host: localhost
